@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h2 ><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About Me </h2>
+
+
 <br>🎓 Currently pursuing Master of Computer Science (M.Sc. IT)<br><br>💻 Passionate about programming, problem-solving, and software development<br><br>🚀 Interested in Java, Web Development, Databases, and Cybersecurity/AI<br><br>📚 Love to learn new technologies and apply them to real-world projects<br><br>🔧 Hands-on experience with:<br><br>Java (Core + OOPs + Multithreading + Exception Handling)<br><br>Web Technologies (HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP)<br><br>Databases (MS Access, SQL)<br><br>VB.NET projects (Hotel Booking System, Vehicle Rental Management, etc.)<br><br>🌱 Currently improving skills in full-stack development and software engineering practices<br><br>🤝 Open to collaborations on academic and open-source projects<br><br>✍️ Actively documenting projects and practical files for students and learners
 
 
@@ -10,17 +12,22 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=jadwinder&theme=dark&hide_border=false)<br/>
+<div align="center" width="50%">
+<p><img align="center"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitc05&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"  alt="Sanchit's GitHub Streak" /></p>
+</div>
 
 <div align="center">
+  <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadwinder&theme=github_dark" />
+  </div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadwinder&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jadwinder&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jadwinder&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadwinder&theme=github_dark" />
 </div>
+<br>
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=jadwinder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
