@@ -12,6 +12,14 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=jadwinder&theme=dark&hide_border=false)<br/>
 
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadwinder&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadwinder&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jadwinder&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jadwinder&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadwinder&theme=github_dark" />
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jadwinder&icon=0&color=0)](https://visitcount.itsvg.in)
 
