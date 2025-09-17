@@ -1,4 +1,22 @@
-<h2 ><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About Me </h2>
+ <div id="header" align="center">
+
+   
+
+ 
+
+
+   
+</div>      
+  
+<div align="center">    
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=08A4BD&center=true&vCenter=true&width=450&lines=Hey...+I'm+Jadwinder+Singh;Welcome+to+my+Github+profile!;Aspiring+Web+Developer!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>  
+</div>
+
+
+
+<h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About Me </h2>
 
 
 <br>🎓 Currently pursuing Master of Computer Science (M.Sc. IT)<br><br>💻 Passionate about programming, problem-solving, and software development<br><br>🚀 Interested in Java, Web Development, Databases, and Cybersecurity/AI<br><br>📚 Love to learn new technologies and apply them to real-world projects<br><br>🔧 Hands-on experience with:<br><br>Java (Core + OOPs + Multithreading + Exception Handling)<br><br>Web Technologies (HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, PHP)<br><br>Databases (MS Access, SQL)<br><br>VB.NET projects (Hotel Booking System, Vehicle Rental Management, etc.)<br><br>🌱 Currently improving skills in full-stack development and software engineering practices<br><br>🤝 Open to collaborations on academic and open-source projects<br><br>✍️ Actively documenting projects and practical files for students and learners
