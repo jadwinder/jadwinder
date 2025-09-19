@@ -25,10 +25,10 @@
 
 
 # 📊 GitHub Stats:
-<div align="center" width="50%">
-<p><img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=jadwinder&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E"  alt="Jadwinder's GitHub Streak" /></p>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadwinder&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Jadwinder's GitHub Streak"/>
+</p>
+
 
 <div align="center">
   <div>
